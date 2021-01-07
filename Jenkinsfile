@@ -13,6 +13,7 @@ pipeline {
         stage('test') {
           steps {
             echo 'testing'
+            echo 'testing more'            
           }
         }
 
