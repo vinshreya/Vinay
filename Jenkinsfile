@@ -20,6 +20,11 @@ pipeline {
       }
     }
 
+    stage('Static Code Analysis') {
+      steps {
+        echo 'SonarQube...'
+      }
+    }
     stage('deploy') {
       steps {
         echo 'Deploying'
