@@ -5,14 +5,10 @@ def
 Hello World
 modify for 11Au
 sdsvdsv
-<<<<<<< HEAD
 //mukesh
 change from 20Apr batch
 B2_change by developer B
 demochange for mukesh
-=======
-
 change from 20Apr batch
 B2_change by developer B
 demo change for batch 20210510
->>>>>>> 8dea4ead3eb0c672970dd872d4f98efda6a848ed
