@@ -26,4 +26,6 @@ MPhasis
 09Jun Demo Content
 31Mar Content
 20Apr content
-some change by Dev B
+:wq
+:q!
+/bin/bash: q: command not found
