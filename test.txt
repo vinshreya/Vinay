@@ -1,0 +1,7 @@
+hi im ismail basha 
+and this is my sample file:!
+
+
+
+:wq
+!
