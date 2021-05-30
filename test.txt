@@ -1,11 +1,1 @@
-hi im ismail basha 
-and this is my sample file:!
-by local repositor
-by github
-:wq
-dfsdf ildflsfksjf
-
-
-
-tomorrow iwll be the last day to submit the report
-done by remote repo
+by dev bb
