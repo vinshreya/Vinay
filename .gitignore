@@ -1,4 +1,5 @@
-
+mybuild.buildlog
+*.out
 *.log
 *.report
 
