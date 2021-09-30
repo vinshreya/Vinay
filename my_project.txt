@@ -2,7 +2,7 @@ change by Tasneem
 this is test
 while practive my girst
 git project
-
+another change from Dev A
 
 hello
 hello world
@@ -10,3 +10,11 @@ hello world
 
 Some more data for 24 Feb Batch
 my_final_soma code change
+
+
+some more text entered by dev B
+
+
+some change from Dev A
+
+change made online by developer B

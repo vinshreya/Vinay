@@ -1,0 +1,7 @@
+mybuild.buildlog
+*.out
+*.log
+*.report
+
+build/
+dath/to/directory/file.txt
